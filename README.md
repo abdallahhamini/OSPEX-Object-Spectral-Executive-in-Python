@@ -2,6 +2,7 @@
 Spectral Data Analysis Package for astrophysicists
 
 Python version
+
 Started in March 2019
 
 Creators: Abdallah Hamini,
@@ -13,5 +14,5 @@ Contacts:
 LESIA, Observatory of Paris, France
 
 
-More details in this file will be added after filling the repositiry
+More details in this file will be added after filling the repository
 
