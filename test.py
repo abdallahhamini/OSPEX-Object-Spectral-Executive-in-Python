@@ -134,7 +134,7 @@ plt.show()
 
 
 
-##Plot Spectogram
+##Plot Spectrogram
 
 # Rate
 plt.axis([TimeNew[0],TimeNew[147], 1, 1000])
