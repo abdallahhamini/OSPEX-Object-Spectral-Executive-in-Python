@@ -14,5 +14,5 @@ Contacts:
 LESIA, Observatory of Paris, France
 
 
-More details in this file will be added after filling the repository
+More details will be added later
 
