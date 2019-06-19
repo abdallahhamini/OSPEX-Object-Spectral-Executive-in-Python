@@ -1,0 +1,28 @@
+
+Requirements to run OSPEX software
+
+Tools:
+Python 3.6
+PyCharm IDE, Version 2019.1.2
+
+Imported libraries and modules:
+Astropy
+Numpy
+Pandas
+Matplotlib
+Tkinter
+
+Webbrowser
+Datetime
+Re
+Copy
+Importlib
+
+
+Change the path of the file(.fits) for local before running
+
+
+
+
+
+
