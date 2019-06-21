@@ -4,12 +4,12 @@ Requirements to run OSPEX software
 Tools: Python 3.6
 
 To run:
-Linux, Mac, Windows: You should call main file from command line: python3 filename.py
+Linux, Mac, Windows: You should call main script from command line: python3 filename.py
  
 If you don’t have Python library on your local PC and want to test the software:
 
 1. Go to the directory
-2. Launch executable file filename.exe
+2. Launch the executable file filename.exe
 
 If you want to work from command line:
 
@@ -19,13 +19,13 @@ cd directory location
 2. Call Python:
 python3
 
-3. Upload file content from plotting.py:
+3. Upload file content from the script plotting.py:
 from plotting import *
 
-4. Choose desired file(s):
+4. Choose desired file(s). You can find the data to test in the Data folder:
 File = Input(“filename.fits”)
 
-Now you have the access to all parameters and functions of the file
+Now you have the access to all parameters and functions of the .fits file
 
 5. Some examples:
 a) to load the parameter RATE from DATA:
@@ -44,12 +44,13 @@ Let us remind you that this software is an internship project and will be improv
 
 Don’t hesitate to contact us
 
-
 Contacts:
 
 @: Liaisian.Abdrakhmanova@obspm.fr
 
 @: Abdallah.Hamini@obspm.fr
+
+LESIA, Observatory of Paris, France
 
 
 
