@@ -1,28 +1,55 @@
 
 Requirements to run OSPEX software
 
-Tools:
-Python 3.6
-PyCharm IDE, Version 2019.1.2
+Tools: Python 3.6
 
-Imported libraries and modules:
-Astropy
-Numpy
-Pandas
-Matplotlib
-Tkinter
+To run:
+Linux, Mac, Windows: You should call main file from command line: python3 filename.py
+ 
+If you don’t have Python library on your local PC and want to test the software:
 
-Webbrowser
-Datetime
-Re
-Copy
-Importlib
+1. Go to the directory
+2. Launch executable file filename.exe
+
+If you want to work from command line:
+
+1. Go  to the directory where your program is located:
+cd directory location
+
+2. Call Python:
+python3
+
+3. Upload file content from plotting.py:
+from plotting import *
+
+4. Choose desired file(s):
+File = Input(“filename.fits”)
+
+Now you have the access to all parameters and functions of the file
+
+5. Some examples:
+a) to load the parameter RATE from DATA:
+
+File.rate
+
+b) to plot Spectrum for Flux:
+
+File.plot_spectrum_flux()
+
+And etc.
+
+Good luck!
+
+Let us remind you that this software is an internship project and will be improved and complemented 
+
+Don’t hesitate to contact us
 
 
-Change the path of the file(.fits) for local before running
+Contacts:
 
+@: Liaisian.Abdrakhmanova@obspm.fr
 
-
+@: Abdallah.Hamini@obspm.fr
 
 
 
